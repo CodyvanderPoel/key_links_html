@@ -1,0 +1,38 @@
+.key-header {
+    font-family: "Courier New", Courier, monospace;
+    color: black;
+}
+
+a,
+.key-links {
+    text-decoration: none;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.key-img {
+    width: 30px;
+    height: 30px;
+}
+
+.key-img-twitch {
+    width: 50px;
+    height: 50px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 1rem;
+}
+
+.content-row {
+    padding-left: 1rem;
+}
+
+a:hover {
+    color: purple;
+}
