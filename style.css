@@ -13,6 +13,8 @@ a,
 .key-img {
     width: 30px;
     height: 30px;
+    padding: 3px;
+    margin: 3px;
 }
 
 /* .key-img-twitch {
@@ -35,4 +37,12 @@ li {
 
 a:hover {
     color: purple;
+}
+
+.key-body {
+    border: 1px;
+    border-color: lightgrey;
+    border-style: solid;
+    border-radius: 2px;
+    width: 245px;
 }
